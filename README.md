@@ -62,8 +62,8 @@ The tracked hand coordinates are converted into game coordinates and used to con
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/comp204/project-3-handgame.git
-cd project-3-handgame
+git clone https://github.com/Dubomr/HandGames.git
+cd HandGames
 ```
 
 ### 2. Create a Virtual Environment
